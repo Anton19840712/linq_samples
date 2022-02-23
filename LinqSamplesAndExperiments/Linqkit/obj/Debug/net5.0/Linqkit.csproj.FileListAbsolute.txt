@@ -1,0 +1,16 @@
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Linqkit\bin\Debug\net5.0\Linqkit.exe
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Linqkit\bin\Debug\net5.0\Linqkit.deps.json
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Linqkit\bin\Debug\net5.0\Linqkit.runtimeconfig.json
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Linqkit\bin\Debug\net5.0\Linqkit.runtimeconfig.dev.json
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Linqkit\bin\Debug\net5.0\Linqkit.dll
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Linqkit\bin\Debug\net5.0\ref\Linqkit.dll
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Linqkit\bin\Debug\net5.0\Linqkit.pdb
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Linqkit\obj\Debug\net5.0\Linqkit.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Linqkit\obj\Debug\net5.0\Linqkit.AssemblyInfoInputs.cache
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Linqkit\obj\Debug\net5.0\Linqkit.AssemblyInfo.cs
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Linqkit\obj\Debug\net5.0\Linqkit.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Linqkit\obj\Debug\net5.0\Linqkit.dll
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Linqkit\obj\Debug\net5.0\ref\Linqkit.dll
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Linqkit\obj\Debug\net5.0\Linqkit.pdb
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Linqkit\obj\Debug\net5.0\Linqkit.genruntimeconfig.cache
+D:\repositories\repositories_etl_patterns\Base_csharp_solution\Linqkit\obj\Debug\net5.0\Linqkit.csproj.AssemblyReference.cache

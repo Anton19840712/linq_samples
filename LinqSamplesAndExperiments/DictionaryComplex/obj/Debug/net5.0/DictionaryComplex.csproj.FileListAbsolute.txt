@@ -1,0 +1,16 @@
+D:\repositories\repositories_etl_patterns\Base_csharp_solution\DictionaryComplex\bin\Debug\net5.0\DictionaryComplex.exe
+D:\repositories\repositories_etl_patterns\Base_csharp_solution\DictionaryComplex\bin\Debug\net5.0\DictionaryComplex.deps.json
+D:\repositories\repositories_etl_patterns\Base_csharp_solution\DictionaryComplex\bin\Debug\net5.0\DictionaryComplex.runtimeconfig.json
+D:\repositories\repositories_etl_patterns\Base_csharp_solution\DictionaryComplex\bin\Debug\net5.0\DictionaryComplex.runtimeconfig.dev.json
+D:\repositories\repositories_etl_patterns\Base_csharp_solution\DictionaryComplex\bin\Debug\net5.0\DictionaryComplex.dll
+D:\repositories\repositories_etl_patterns\Base_csharp_solution\DictionaryComplex\bin\Debug\net5.0\ref\DictionaryComplex.dll
+D:\repositories\repositories_etl_patterns\Base_csharp_solution\DictionaryComplex\bin\Debug\net5.0\DictionaryComplex.pdb
+D:\repositories\repositories_etl_patterns\Base_csharp_solution\DictionaryComplex\obj\Debug\net5.0\DictionaryComplex.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositories\repositories_etl_patterns\Base_csharp_solution\DictionaryComplex\obj\Debug\net5.0\DictionaryComplex.AssemblyInfoInputs.cache
+D:\repositories\repositories_etl_patterns\Base_csharp_solution\DictionaryComplex\obj\Debug\net5.0\DictionaryComplex.AssemblyInfo.cs
+D:\repositories\repositories_etl_patterns\Base_csharp_solution\DictionaryComplex\obj\Debug\net5.0\DictionaryComplex.csproj.CoreCompileInputs.cache
+D:\repositories\repositories_etl_patterns\Base_csharp_solution\DictionaryComplex\obj\Debug\net5.0\DictionaryComplex.dll
+D:\repositories\repositories_etl_patterns\Base_csharp_solution\DictionaryComplex\obj\Debug\net5.0\ref\DictionaryComplex.dll
+D:\repositories\repositories_etl_patterns\Base_csharp_solution\DictionaryComplex\obj\Debug\net5.0\DictionaryComplex.pdb
+D:\repositories\repositories_etl_patterns\Base_csharp_solution\DictionaryComplex\obj\Debug\net5.0\DictionaryComplex.genruntimeconfig.cache
+D:\repositories\repositories_etl_patterns\Base_csharp_solution\DictionaryComplex\obj\Debug\net5.0\DictionaryComplex.csproj.AssemblyReference.cache

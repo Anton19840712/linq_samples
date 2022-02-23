@@ -1,0 +1,16 @@
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Exadel\obj\Debug\net5.0\Exadel.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Exadel\obj\Debug\net5.0\Exadel.AssemblyInfoInputs.cache
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Exadel\obj\Debug\net5.0\Exadel.AssemblyInfo.cs
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Exadel\obj\Debug\net5.0\Exadel.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Exadel\bin\Debug\net5.0\Exadel.exe
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Exadel\bin\Debug\net5.0\Exadel.deps.json
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Exadel\bin\Debug\net5.0\Exadel.runtimeconfig.json
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Exadel\bin\Debug\net5.0\Exadel.runtimeconfig.dev.json
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Exadel\bin\Debug\net5.0\Exadel.dll
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Exadel\bin\Debug\net5.0\ref\Exadel.dll
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Exadel\bin\Debug\net5.0\Exadel.pdb
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Exadel\obj\Debug\net5.0\Exadel.dll
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Exadel\obj\Debug\net5.0\ref\Exadel.dll
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Exadel\obj\Debug\net5.0\Exadel.pdb
+D:\REPOSITORIES\repositories_etl_patterns\Base_csharp_solution\Exadel\obj\Debug\net5.0\Exadel.genruntimeconfig.cache
+D:\repositories\repositories_etl_patterns\Base_csharp_solution\Exadel\obj\Debug\net5.0\Exadel.csprojAssemblyReference.cache
